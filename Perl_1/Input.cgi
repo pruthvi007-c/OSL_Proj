@@ -65,5 +65,5 @@ print '</div>';
 print "<hr style='margin-top:200px;'>";
 print "</div>";
 
-
+print "";
 print $query->end_html;
