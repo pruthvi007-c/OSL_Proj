@@ -1,5 +1,7 @@
 #!"C:\Program Files (x86)\Xampp\perl\bin\perl.exe"
 
+#This is output of perl_1 module
+
 BEGIN {
 
      push(@INC, 'C:\Program Files (x86)\Xampp\perl\vendor\lib\HTTP\Server\Simple\CGI.pm');
